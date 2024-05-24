@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "tYSci/Oa4A4sQGiF+zxEXlWtRJ7Jc8JgEIJYk71mpHbjcbgwGlITiDc/zcpIxefnh7ThnWpSDzj7t/ux4gd4PQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nabil\\source\\repos\\SplinterCell-V0.1\\SplinterCell-V0.1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nabil\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
+    "C:\\Users\\nabil\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\nabil\\.nuget\\packages\\system.codedom\\8.0.0\\system.codedom.8.0.0.nupkg.sha512",
+    "C:\\Users\\nabil\\.nuget\\packages\\system.management\\8.0.0\\system.management.8.0.0.nupkg.sha512",
+    "C:\\Users\\nabil\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.4\\microsoft.netcore.app.runtime.win-x64.8.0.4.nupkg.sha512",
+    "C:\\Users\\nabil\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.4\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.4.nupkg.sha512",
+    "C:\\Users\\nabil\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.4\\microsoft.aspnetcore.app.runtime.win-x64.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,2 @@
+C:\Users\nabil\source\repos\SplinterCell-V0.1\bin\Release\net8.0\win-x64\publish\SplinterCell-V0.1.pdb
+C:\Users\nabil\source\repos\SplinterCell-V0.1\bin\Release\net8.0\win-x64\publish\SplinterCell-V0.1.exe
